@@ -25,7 +25,7 @@ elif age<=50:
 else:
      print("you know")
 
-loop 
+# loop 
 
 for i in range (7):
      print(i)
